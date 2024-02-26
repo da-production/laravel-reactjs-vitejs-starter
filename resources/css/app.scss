@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.gird{
+    background-image: linear-gradient(rgba(52, 52, 52, 0.1) 1px, transparent 1px), linear-gradient(to right, rgba(52, 52, 52, 0.1) 1px, transparent 1px);
+    background-size: 39px 39px;
+    background-color: #ffffff;
+}
