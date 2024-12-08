@@ -12,7 +12,7 @@
             'resources/js/app.jsx'
         ])
     </head>
-    <body class="gird">
+    <body >
         <div id="app" ></div>
     </body>
 </html>
